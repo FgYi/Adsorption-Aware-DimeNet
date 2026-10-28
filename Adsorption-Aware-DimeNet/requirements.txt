@@ -1,8 +1,0 @@
-# Tested with CUDA 12.8 on an RTX 5090.
-# Install the matching PyTorch build first, e.g.:
-#   pip install torch --index-url https://download.pytorch.org/whl/cu128
-torch>=2.4
-torch-geometric>=2.5
-numpy>=1.26
-pymatgen>=2023.10
-tqdm>=4.66
